@@ -1,0 +1,17 @@
+Using diff will enable a developer to check which line 
+was changed and will assist him in narrowing the search
+for the bug. Thus diff tool is useful.
+
+Incase when we develop new feature and after somedays
+we want to roll back to our previous features as it
+was better. It can make you efficient programmer.
+
+Manually saving is best because it gives you entire control 
+whne you prefer to save rather than having and mainting many
+versions.
+
+Since multiple files can be related, it allows them to be saved
+collectively.
+
+Since i know i can easily revert to working copy of my code i dont
+have to worry about new bugs which may stop my code.
